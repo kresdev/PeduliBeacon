@@ -25,22 +25,24 @@ AT+IBE312345678
 Untuk lebih lengkapnya bisa langsung mengakses AT Command set dari HM10: https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf
 
 
-## Tampilan Aplikasi PeduliBeacon
+## Tampilan Aplikasi PeduliBeacon (Semua data Dummy)
 
 1. Home Screen
-![PeduliBeacon_1](https://user-images.githubusercontent.com/60245989/144244205-adfc766c-d15e-42df-b973-ddef1f3a2166.jpeg)
+<img src=https://user-images.githubusercontent.com/60245989/144244205-adfc766c-d15e-42df-b973-ddef1f3a2166.jpeg width=250>
 
 
 2. Beacon Screen (Bluetooth otomatis menyala)
-![PeduliBeacon_2](https://user-images.githubusercontent.com/60245989/144244261-578438fb-e87f-452c-9ba0-87037ba991cf.jpeg)
+<img src=https://user-images.githubusercontent.com/60245989/144244261-578438fb-e87f-452c-9ba0-87037ba991cf.jpeg  width=250>
 
 
 3. Detail Screen
-![PeduliBeacon_3](https://user-images.githubusercontent.com/60245989/144244281-dabd623a-63cf-4889-be08-b0cdb088fd47.jpeg)
+<img src=https://user-images.githubusercontent.com/60245989/144244281-dabd623a-63cf-4889-be08-b0cdb088fd47.jpeg width=250>
 
 
 4. Home Screen dengan check in berhasil (Bluetooth otomatis mati)
-![PeduliBeacon_4](https://user-images.githubusercontent.com/60245989/144244313-215828d0-2f4f-44cf-9419-5b6506a4761d.jpeg)
+<img src=https://user-images.githubusercontent.com/60245989/144244313-215828d0-2f4f-44cf-9419-5b6506a4761d.jpeg width=250>
 
 
 **Untuk mengubah list places yang terdaftar pada local database berada di bagian model/places.dart**
+
+**(Pada Android 10 & 11 Jika Beacon tidak berfungsi, aktifkan permission untuk lokasi secara manual dibagian setting aplikasi)**
