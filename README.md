@@ -23,3 +23,24 @@ AT+IBE312345678
 4. AT+RESET
 
 Untuk lebih lengkapnya bisa langsung mengakses AT Command set dari HM10: https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf
+
+
+## Tampilan Aplikasi PeduliBeacon
+
+1. Home Screen
+![PeduliBeacon_1](https://user-images.githubusercontent.com/60245989/144244205-adfc766c-d15e-42df-b973-ddef1f3a2166.jpeg)
+
+
+2. Beacon Screen (Bluetooth otomatis menyala)
+![PeduliBeacon_2](https://user-images.githubusercontent.com/60245989/144244261-578438fb-e87f-452c-9ba0-87037ba991cf.jpeg)
+
+
+3. Detail Screen
+![PeduliBeacon_3](https://user-images.githubusercontent.com/60245989/144244281-dabd623a-63cf-4889-be08-b0cdb088fd47.jpeg)
+
+
+4. Home Screen dengan check in berhasil (Bluetooth otomatis mati)
+![PeduliBeacon_4](https://user-images.githubusercontent.com/60245989/144244313-215828d0-2f4f-44cf-9419-5b6506a4761d.jpeg)
+
+
+**Untuk mengubah list places yang terdaftar pada local database berada di bagian model/places.dart**
